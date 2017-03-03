@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AppEnterBackgroundDemo.xcodeproj">
+      location = "self:Objccn_LightWeight_VC.xcodeproj">
    </FileRef>
 </Workspace>
